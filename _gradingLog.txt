@@ -1,0 +1,15 @@
+
+----reverse() TEST SETS -------------------------------------------------------
+
+TEST SET 01 reverse() - regular functionality                                   PASSED    
+TEST SET 01 reverse() - empty list                                              PASSED    
+
+----Iterative reverseToString() TEST SETS ---------------------------------------
+
+TEST SET 02 reverseToString() - regular functionality                           PASSED    
+TEST SET 02 reverseToString() - empty list                                      PASSED    
+
+---- Recursive recReverseToString() TEST SETS -----------------------------------------
+
+TEST SET 02 recReverseToString() - regular functionality                        PASSED    
+TEST SET 02 recReverseToString() - empty list                                   PASSED    
